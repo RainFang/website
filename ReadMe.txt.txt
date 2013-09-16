@@ -11,3 +11,7 @@ Featured in this project is:
 -profile editing
 -profile storage
 -profile searching
+
+Things to add next:
+-CSS and other cosmetic improvements
+-javascript to reduce server stress
